@@ -1,0 +1,6 @@
+{
+  "name": "FindMit",
+  "description": "FindMit is a Ghanaian app for short-form stories, real-time chat, live classes and jobs.",
+  "permissions": [],
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
